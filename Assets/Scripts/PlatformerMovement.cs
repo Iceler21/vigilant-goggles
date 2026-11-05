@@ -36,13 +36,3 @@ public class PlatformerMovement : MonoBehaviour
         }
     }
 }
-
-
-
-/*
-
-Current Video: Video 3
-
-Video Time: 0:00 (ONGOING)
-
-*/
